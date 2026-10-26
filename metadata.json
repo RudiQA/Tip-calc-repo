@@ -1,0 +1,6 @@
+{
+  "name": "Tip Calculator - Split & Tip",
+  "description": "Fast, accurate tip calculator and bill splitter with dual percentage and amount modes, exact penny allocation, and smart rounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
